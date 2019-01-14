@@ -1,3 +1,4 @@
 module.exports = {
-	status: "complicated"
+	status: "complicated",
+	possibility: "slight"
 }
